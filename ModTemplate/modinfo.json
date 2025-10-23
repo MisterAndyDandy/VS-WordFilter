@@ -4,7 +4,7 @@
     "name": "Word Filter",
     "description": "",
     "authors": [ "WickedSchnitzel", "Mister Andy Dandy" ],
-    "version": "1.0.0",
+    "version": "1.0.3",
     "side": "Server",
     "requiredOnServer": true,
     "dependencies": {

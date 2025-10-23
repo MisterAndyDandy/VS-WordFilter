@@ -1,0 +1,164 @@
+{
+    "Version": 1.0,
+    "ShouldLog": true,
+    "SymbolsToChar": {
+        "1|!": "i",
+        "3": "e",
+        "4|@": "a",
+        "5|$": "s",
+        "7": "t",
+        "0": "o"
+    },
+    "Acronyms": {
+        "wtf": "what the fuck",
+        "fu": "fuck you",
+        "stfu": "shut the fuck up"
+    },
+    "SafeWords": [
+        "assassin",
+        "assassinate",
+        "assault",
+        "assert",
+        "assignment",
+        "associate",
+        "assume",
+        "pass",
+        "passage",
+        "passion",
+        "passive",
+        "compass",
+        "class",
+        "classic",
+        "classroom",
+        "grass",
+        "glass",
+        "mass",
+        "massive",
+        "embassy",
+        "cocktail",
+        "cockatrice",
+        "cockpit",
+        "cockerel",
+        "cockcrow",
+        "peacock",
+        "woodcock",
+        "weathercock",
+        "sexton",
+        "sextant",
+        "sextet",
+        "sextuple",
+        "asexual",
+        "insect",
+        "insects",
+        "title",
+        "entitle",
+        "entitled",
+        "titan",
+        "titanium",
+        "tithing",
+        "titmouse",
+        "stitched",
+        "tithes",
+        "titans",
+        "adamant",
+        "madam",
+        "damnation",
+        "shell",
+        "shelter",
+        "shellfish",
+        "hellenistic",
+        "hellenic",
+        "bishop",
+        "raddish",
+        "medick",
+        "benedick",
+        "dickeybird",
+        "dickinson",
+        "defagged",
+        "flag",
+        "flagged",
+        "flagging",
+        "compassion",
+        "pistol",
+        "pistachio",
+        "pissedoff",
+        "switch",
+        "pitch",
+        "ditch",
+        "kitchen",
+        "hitch",
+        "cockatoo",
+        "cockapoo",
+        "godspeed",
+        "damask",
+        "christmas",
+        "passover",
+        "bass",
+        "brass",
+        "harass",
+        "classify",
+        "grasshopper",
+        "assign",
+        "assistant",
+        "assortment"
+    ],
+    "Filters": [
+        {
+            "Word": "fuck"
+        },
+        {
+            "Word": "shit|crap"
+        },
+        {
+            "Word": "dick|cock"
+        },
+        {
+            "Word": "bitch"
+        },
+        {
+            "Word": "arse|ass"
+        },
+        {
+            "Word": "bastard"
+        },
+        {
+            "Word": "piss"
+        },
+        {
+            "Word": "slut"
+        },
+        {
+            "Word": "whore"
+        },
+        {
+            "Word": "douche"
+        },
+        {
+            "Word": "fag"
+        },
+        {
+            "Word": "nigger"
+        },
+        {
+            "Word": "twat"
+        },
+        {
+            "Word": "prick"
+        },
+        {
+            "Word": "jerk"
+        },
+        {
+            "Word": "moron"
+        },
+        {
+            "Word": "idiot"
+        },
+        {
+            "Word": "pussy"
+        },
+        {
+            "Word": "knob"
+        }
+    ]
+}
